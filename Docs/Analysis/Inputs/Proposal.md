@@ -34,10 +34,12 @@ Planner - Jimena
 The goal of the planner is to organize the phases of the project, outline how code will be used
 and implemented, and will also be in charge of writing purpose-statements for the users to
 view prior to use of the system.
+
 Developer - Henry
 The developer takes the outline from the planner and develops the program. The program will
 be tweaked to accommodate user needs as plans may be subject to change as development
 begins.
+
 Tester/Organizer - Carla
 The tester/organizer analyzes the program and suggests possible changes or any significant
 issues to the development. Also the tester makes sure that the program addresses all of the
