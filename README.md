@@ -57,4 +57,4 @@ We welcome contributions to the Tax Calculator System. If you'd like to contribu
 
 4. Your pull request will be reviewed and, if approved, merged into the project.
 
-Thank you for considering contributing to our project! Your contributions help make tax calculations easier for everyone.
+
