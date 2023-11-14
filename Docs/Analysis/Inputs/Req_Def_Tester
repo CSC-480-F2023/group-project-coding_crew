@@ -1,0 +1,64 @@
+# Individual Project: Requirement Definition for Tester/ Organizer
+
+## Requirement(s)
+
+### Requirement 1: Comprehensive Error Reporting
+
+**Description:**
+As the Tester/Organizer (Carla), my objective is to ensure the tax calculating system incorporates comprehensive
+error reporting functionalities. This feature is crucial to enable users, especially those like Jane Doe, to easily 
+identify and rectify input mistakes during the tax calculation process.
+
+**Acceptance Criteria:**
+1. The system should promptly detect and clearly communicate errors in user inputs throughout the tax calculation process.
+2. Error messages must be user-friendly, providing meaningful guidance on how to rectify the identified input mistakes.
+3. Users should have the capability to access a log detailing errors and corrections made during their tax calculation session.
+
+**Categorization:**
+- Functional Requirement
+- Stakeholders: End Users, Tester/Organizer
+
+## Stakeholder Personas
+
+### Persona 1: End User - Rowan Everett
+
+**Background:**
+Rowan, a tech-savvy freelance consultant handling clients across multiple states, lacks in-depth knowledge of tax laws. 
+She values a user-friendly system that assists her in accurately calculating taxes without the need for extensive financial expertise.
+
+**Impact on Requirement:**
+Rowan stands to benefit significantly from a comprehensive error reporting system, as it ensures that any mistakes in her 
+input are easily identifiable and correctable. This aligns with her preference for a user-friendly tax calculation experience.
+
+### Persona 2: Tester/Organizer - Carla López
+
+**Background:**
+Carla is tasked with analyzing the program and ensuring it adheres to guidelines. She seeks to streamline the testing
+process and requires robust error reporting functionalities to identify potential issues during the development phase.
+
+**Impact on Requirement:**
+A comprehensive error reporting system will enhance Carla's efficiency in testing and organizing tasks. It will enable her 
+to provide valuable feedback to the development team, contributing to the overall improvement of the tax calculating system.
+
+## Constraints
+
+### Constraint 1: Regulatory Compliance
+
+**Description:**
+The tax calculating system must strictly comply with all relevant tax regulations and data privacy laws.
+
+**Impact on Requirement:**
+The error reporting system should be designed with utmost consideration for user data privacy. Error messages should not 
+compromise sensitive information, ensuring that the system aligns with regulatory requirements.
+
+## Categorization
+
+### Functional Requirements
+- Requirement 1: Comprehensive Error Reporting
+
+### Non-Functional Requirements
+- Constraint 1: Regulatory Compliance
+
+### Stakeholders
+- End Users
+- Tester/Organizer 
