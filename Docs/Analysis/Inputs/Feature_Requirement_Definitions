@@ -1,0 +1,73 @@
+# Tax Calculating System Feature Requirements
+
+## Problem Statement
+Our project's primary objective is to revolutionize the tax calculation experience for American citizens and businesses. 
+The tax system we're crafting is dedicated to delivering precise assessments of users' tax obligations, considering 
+their unique income profiles, financial situations, and geographical locations. We aim to simplify the complex chore 
+of tax calculation and provide users with an undemanding and effective solution.
+
+## Project Scope
+The focal point of our system is the meticulous calculation of federal and state income taxes. Users, by inputting 
+their diverse income sources and financial details, will receive accurate tax assessments. We recognize the intricate 
+nature of tax laws, which can vary significantly from one state to another. Our system addresses this challenge by 
+incorporating the distinctive tax rules and rates applicable in each state. Users will be empowered to calculate both 
+federal and state taxes as accurately as possible, with the system also considering the state where the user invoices.
+
+In terms of technology, our development will primarily be in Python. To ensure our tax calculations stay abreast 
+of the latest tax law changes, we will seamlessly integrate with the IRS API.
+
+## Project Justification
+The US tax system's notorious complexity poses a challenge for many individuals and businesses when it comes to 
+accurate tax calculations. Our project's raison d'être is to simplify this process, making it more comprehensible 
+and user-friendly. By leveraging our platform, users can save both time and money, reducing the need for expensive 
+tax advisors. Additionally, our system's accessibility across a broad spectrum of users, regardless of their tax knowledge, 
+aims to minimize the likelihood of errors in tax filings, consequently leading to fewer fines.
+
+## Roles
+The roles have been assigned in this way to each person; nevertheless, we will all work on all tasks as needed. 
+Anyway, this would be the definition of the roles we would like to work with.
+- **Planner - Jimena**
+The Planner will oversee the various phases of the project as well as their correction. Additionally, they will 
+define how the team wants the code to be implemented later, and finally, she will be responsible for crafting purpose 
+statements to guide users through the system.
+
+- **Developer - Henry**
+The role of the developer involves translating the planner's outline into a functional program. Additionally, he will adapt 
+the program to accommodate changing user needs as the development progresses.
+
+- **Tester/Organizer - Carla**
+The responsibilities of the tester/organizer encompass a thorough analysis of the program. She will suggest possible 
+changes or flag any significant issues during development. Finally, she ensures that the program aligns with the guidelines 
+set by the planner and finalizes the project for presentation.
+
+## Feature Requirements
+
+### User Input
+Users should be able to input various income sources and financial details seamlessly. This means that the system should 
+be flexible enough to accommodate different income types, such as salary, dividends, and capital gains.
+
+### Tax Calculation
+The system should perform precise federal income tax calculations based on user input. Moreover, accurate state income 
+tax calculations should be made, considering unique state tax rules and rates.
+Users should have the option to choose the state for tax calculation, with the system considering their location and 
+invoicing state.
+
+### IRS API Integration
+Seamless integration with the IRS API should be implemented to ensure the system stays updated on the latest tax law changes.
+In addition, automatic notifications should be sent to users regarding significant tax law updates affecting their calculations.
+
+### User-Friendly Interface
+Not only The system should provide a highly intuitive and user-friendly interface, but also the user interface should cover essential functionalities.
+Therefore, purpose statements and tooltips should be incorporated to explain complex tax terms for user understanding.
+
+### Error Handling
+Robust error handling mechanisms should be in place to prevent miscalculations and clear and user-friendly error messages 
+should guide users in correcting input mistakes.
+To do this, users should be able to generate comprehensive reports summarizing their tax calculations.
+
+## Stakeholders
+- End Users
+- Planner 
+- Developer
+- Tester/Organizer
+- Course Instructor
