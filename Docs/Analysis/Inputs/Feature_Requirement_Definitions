@@ -2,13 +2,13 @@
 
 ## Problem Statement
 Our project's primary objective is to revolutionize the tax calculation experience for American citizens and businesses. 
-The tax system we're crafting is dedicated to delivering precise assessments of users' tax obligations, considering 
+The tax system we are crafting is dedicated to delivering precise assessments of users' tax obligations, considering 
 their unique income profiles, financial situations, and geographical locations. We aim to simplify the complex chore 
 of tax calculation and provide users with an undemanding and effective solution.
 
 ## Project Scope
-The focal point of our system is the meticulous calculation of federal and state income taxes. Users, by inputting 
-their diverse income sources and financial details, will receive accurate tax assessments. We recognize the intricate 
+The focal point of our system is the meticulous calculation of federal and state income taxes. Users will receive 
+accurate tax assessments by inputting their diverse income sources and financial details. We recognize the intricate 
 nature of tax laws, which can vary significantly from one state to another. Our system addresses this challenge by 
 incorporating the distinctive tax rules and rates applicable in each state. Users will be empowered to calculate both 
 federal and state taxes as accurately as possible, with the system also considering the state where the user invoices.
@@ -18,27 +18,28 @@ of the latest tax law changes, we will seamlessly integrate with the IRS API.
 
 ## Project Justification
 The US tax system's notorious complexity poses a challenge for many individuals and businesses when it comes to 
-accurate tax calculations. Our project's raison d'être is to simplify this process, making it more comprehensible 
-and user-friendly. By leveraging our platform, users can save both time and money, reducing the need for expensive 
-tax advisors. Additionally, our system's accessibility across a broad spectrum of users, regardless of their tax knowledge, 
-aims to minimize the likelihood of errors in tax filings, consequently leading to fewer fines.
+accurate tax calculations and it usually requires external help for its completion. Our project's raison d'être is
+to simplify this process, making it more comprehensible and user-friendly. By leveraging our platform, users can save
+both time and money, reducing the need for expensive tax advisors. Additionally, our system's accessibility across a 
+broad spectrum of users, regardless of their tax knowledge, aims to minimize the likelihood of errors in tax filings, 
+consequently leading to fewer fines.
 
 ## Roles
 The roles have been assigned in this way to each person; nevertheless, we will all work on all tasks as needed. 
-Anyway, this would be the definition of the roles we would like to work with.
+Regardless, this is the initial definition of the roles we would like to work with.
 - **Planner - Jimena**
-The Planner will oversee the various phases of the project as well as their correction. Additionally, they will 
+The Planner will oversee the various phases of the project as well as their correction. Additionally, she will 
 define how the team wants the code to be implemented later, and finally, she will be responsible for crafting purpose 
 statements to guide users through the system.
 
 - **Developer - Henry**
-The role of the developer involves translating the planner's outline into a functional program. Additionally, he will adapt 
-the program to accommodate changing user needs as the development progresses.
+The role of the developer involves translating the planner's outline into a functional program and coding the idea. 
+Additionally, he will adapt the program to accommodate changing user needs as the development progresses.
 
 - **Tester/Organizer - Carla**
 The responsibilities of the tester/organizer encompass a thorough analysis of the program. She will suggest possible 
-changes or flag any significant issues during development. Finally, she ensures that the program aligns with the guidelines 
-set by the planner and finalizes the project for presentation.
+changes or highlight any significant issues during development. Finally, she ensures that the program aligns with the 
+guidelines set by the planner and finalizes the project for presentation.
 
 ## Feature Requirements
 
@@ -54,11 +55,12 @@ invoicing state.
 
 ### IRS API Integration
 Seamless integration with the IRS API should be implemented to ensure the system stays updated on the latest tax law changes.
-In addition, automatic notifications should be sent to users regarding significant tax law updates affecting their calculations.
+In addition, users should receive automatic notifications regarding significant tax law updates affecting their calculations.
 
 ### User-Friendly Interface
-Not only The system should provide a highly intuitive and user-friendly interface, but also the user interface should cover essential functionalities.
-Therefore, purpose statements and tooltips should be incorporated to explain complex tax terms for user understanding.
+Not only The system should provide a highly intuitive and user-friendly interface, but also the user interface should cover 
+essential functionalities. Therefore, purpose statements and tooltips should be incorporated to explain complex tax terms 
+for user understanding.
 
 ### Error Handling
 Robust error handling mechanisms should be in place to prevent miscalculations and clear and user-friendly error messages 
