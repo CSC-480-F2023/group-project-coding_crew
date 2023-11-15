@@ -17,8 +17,10 @@ that the calculated state taxes align with the nuanced tax laws of my jurisdicti
 changes in federal tax laws. This integration is crucial for staying abreast of regulatory modifications.
 
    Rationale: The dynamic nature of tax laws requires the system to maintain synchronization with the IRS API, guaranteeing accuracy 
-   and compliance with the most recent federal tax regulations. The system must be constantly updating all new laws that may apply
-   to users.
+   and compliance with the most recent federal tax regulations. The ideal scenario would be constant updates, but based on the resources 
+   and time available, we could define deadlines for when the software will be updated.
+
+
 
 4. As a user, I appreciate clear and detailed purpose statements that guide me through the process of inputting financial 
 information and understanding the calculated tax assessments. This ensures transparency and empowers users with a deeper 
