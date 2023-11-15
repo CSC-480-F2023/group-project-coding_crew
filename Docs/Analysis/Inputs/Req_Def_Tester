@@ -35,6 +35,8 @@ input are easily identifiable and correctable. This aligns with her preference f
 **Background:**
 Carla is tasked with analyzing the program and ensuring it adheres to guidelines. She seeks to streamline the testing
 process and requires robust error reporting functionalities to identify potential issues during the development phase.
+We don't want the user to put the data in and get the wrong output. Specially because a mistake like this can result in 
+big fines and the lost of a valuable user
 
 **Impact on Requirement:**
 A comprehensive error reporting system will enhance Carla's efficiency in testing and organizing tasks. It will enable her 
