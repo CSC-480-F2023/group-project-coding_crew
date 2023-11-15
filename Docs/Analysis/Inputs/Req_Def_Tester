@@ -12,6 +12,7 @@ identify and rectify input mistakes during the tax calculation process.
 **Acceptance Criteria:**
 1. The system should promptly detect and clearly communicate errors in user inputs throughout the tax calculation process.
 2. Error messages must be user-friendly, providing meaningful guidance on how to rectify the identified input mistakes.
+   Ww want to make the user feel like it is an easy thing to do and mistakes can be done as long as they are corrected.
 3. Users should have the capability to access a log detailing errors and corrections made during their tax calculation session.
 
 **Categorization:**
