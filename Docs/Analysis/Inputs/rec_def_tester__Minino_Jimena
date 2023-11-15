@@ -1,0 +1,82 @@
+User Stories:
+
+1. As a possible future user who might possess diverse income sources and financial intricacies, I desire an intuitive interface that 
+allows me to input comprehensive financial details. This enables the system to furnish accurate federal and state tax assessments 
+tailored to my specific financial situation.
+
+   Rationale: Users with complex financial portfolios require a user-friendly interface to input detailed financial information. 
+   The system's capability to process this information is crucial in providing accurate tax assessments.
+
+2. As any user, I seek assurance that the system accounts for the unique tax rules and rates applicable in each state. This ensures 
+that the calculated state taxes align with the nuanced tax laws of my jurisdiction.
+
+   Rationale: The variation in tax laws among states necessitates the system's adaptability to ensure compliance and accuracy 
+   in state tax calculations.
+
+3. As any user, I anticipate the system to seamlessly integrate with the IRS API, ensuring real-time updates to reflect the latest 
+changes in federal tax laws. This integration is crucial for staying abreast of regulatory modifications.
+
+   Rationale: The dynamic nature of tax laws requires the system to maintain synchronization with the IRS API, guaranteeing accuracy 
+   and compliance with the most recent federal tax regulations. The system must be constantly updating all new laws that may apply
+   to users.
+
+4. As a user, I appreciate clear and detailed purpose statements that guide me through the process of inputting financial 
+information and understanding the calculated tax assessments. This ensures transparency and empowers users with a deeper 
+understanding of their tax liability.
+
+   Rationale: Clarity in purpose statements enhances user comprehension, fostering trust in the system's functionality and 
+   promoting informed decision-making.
+
+5. As a planner overseeing project development, I advocate for the implementation of the code in Python. Using Python's 
+capabilities will enhance the efficiency, readability, and maintainability of the codebase.
+
+   Rationale: Python's versatility and readability make it an ideal choice for the development of a complex system, promoting
+   code maintainability and ease of collaboration within the development team.
+
+6. As a planner, I emphasize the importance of defining and adhering to coding standards. Consistent and high-quality code 
+enhances readability, reduces errors, and facilitates seamless collaboration among team members.
+
+   Rationale: Coding standards are essential for maintaining a cohesive and reliable codebase, contributing to the long-term 
+   sustainability of the project.
+
+7. As a planner, I envision mechanisms for easy correction of errors within the system. This ensures prompt resolution of issues
+during or after deployment, contributing to the overall robustness and reliability of the tax calculation system.
+
+   Rationale: Anticipating and addressing potential errors is crucial for system reliability, user satisfaction, and maintaining
+   the integrity of tax calculations.
+
+8. As a planner, I stress the importance of thorough testing, including unit tests, integration tests, and user acceptance tests. 
+Rigorous testing ensures the reliability and accuracy of the tax calculation system, safeguarding against potential issues.
+
+    Rationale: Comprehensive testing is essential for validating the system's functionality, identifying and addressing potential
+    issues, and ensuring a seamless user experience.
+
+To effectively manage the development of our tax calculation system, a structured and organized approach to documenting 
+and sharing project artifacts is paramount. As such, the project repository will serve as a centralized hub for critical documents 
+and files. The following requirements are identified for seamless collaboration and knowledge sharing within the development team:
+
+1. Requirements for the group project repository
+   - Functional Requirement: As a fundamental necessity, the project repository should facilitate the upload of various documents 
+   outlining user stories, technical specifications, and system functionalities. This requirement ensures that the team has easy 
+   access to the evolving project requirements.
+
+2. Stakeholder personas that are impacted/relevant to your requirement
+   - Functional Requirement: The repository should support the upload and categorization of stakeholder personas. This includes
+   detailed profiles of users, acquirers, producers, and regulators who play a role in or are impacted by the tax calculation system.
+   This requirement aids in aligning development efforts with stakeholder needs.
+
+3. Constraints relevant to your requirement
+   - Functional Requirement: The repository should allow the upload of documents outlining constraints that may affect the project,
+   such as technological limitations, budgetary constraints, or time constraints. This ensures that the team is aware of and can 
+   actively manage these constraints during the development process.
+
+4. Correctly categorize requirements and stakeholders 
+   - Functional Requirement: The repository should provide a structured system for categorizing requirements as either functional
+   or non-functional. Additionally, stakeholders should be categorized into user, acquirer, producer, or regulator roles. This ensures
+   that development efforts are aligned with the appropriate stakeholders and that both functional and non-functional aspects are 
+   adequately addressed.
+
+   - Non-Functional Requirement: The categorization feature should be intuitive and user-friendly, promoting ease of use for team
+   members contributing to the repository. This non-functional requirement emphasizes the importance of usability and accessibility
+   in the repository's design.
+
